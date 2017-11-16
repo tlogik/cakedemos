@@ -1,0 +1,7 @@
+\\Mac\code\github\Cake-Demo\src\CakeDemo\bin\Debug\CakeDemo.exe.config
+\\Mac\code\github\Cake-Demo\src\CakeDemo\bin\Debug\CakeDemo.exe
+\\Mac\code\github\Cake-Demo\src\CakeDemo\bin\Debug\CakeDemo.pdb
+\\Mac\code\github\Cake-Demo\src\CakeDemo\obj\Debug\CakeDemo.csprojResolveAssemblyReference.cache
+\\Mac\code\github\Cake-Demo\src\CakeDemo\obj\Debug\CakeDemo.csproj.CoreCompileInputs.cache
+\\Mac\code\github\Cake-Demo\src\CakeDemo\obj\Debug\CakeDemo.exe
+\\Mac\code\github\Cake-Demo\src\CakeDemo\obj\Debug\CakeDemo.pdb
